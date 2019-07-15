@@ -7,7 +7,7 @@ Search multiple websites to see if user exists.
 # Prerequisites for installation
 Python 3
 
-imports needed:
+imports needed:\
   argparse \
   sys \
   os \
