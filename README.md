@@ -1,5 +1,5 @@
 # Profiler
-!(https://github.com/DFC302/profiler/blob/master/images/header.png)
+![title](https://github.com/DFC302/profiler/blob/master/images/header.png)
 
 # Description
 I got tired of loading up recon-ng or having to install it on new systems (plugins, etc). I also wanted a faster way and more convient way of searching for users on sites, when doing recon. Thus, profiler.py is a spinoff or recreation of recon-ng's profiler.
