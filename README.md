@@ -8,14 +8,14 @@ Search multiple websites to see if user exists.
 Python 3
 
 imports needed:
-  argparse
-  sys
-  os
-  platform
-  requests
-  subprocess
-  webbrowser
-  datetime
+  argparse \
+  sys \
+  os \
+  platform \
+  requests \
+  subprocess \
+  webbrowser \
+  datetime \
   colorama (Fore and Style)
   
 # Installation
